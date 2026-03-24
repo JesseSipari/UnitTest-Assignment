@@ -31,3 +31,7 @@ Run the main demonstration script:
 node main.js
 
 ```
+
+## License
+
+Licensed under the Apache License, Version 2.0. See the `LICENSE` file for details.
